@@ -1,0 +1,3 @@
+[submodule "slimserver"]
+	path = slimserver
+	url = git@github.com:Logitech/slimserver.git
