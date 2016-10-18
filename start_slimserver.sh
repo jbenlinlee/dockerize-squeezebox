@@ -5,7 +5,7 @@ export PERL5LIB=/usr/share/squeezeboxserver/CPAN:/usr/lib/perl5/vendor_perl
 SBDIR_HOME=/usr/libexec
 SBDIR_LOG=/var/log/squeezeboxserver
 SBDIR_PREFS=/squeezebox/prefs
-SBDIR_CACHE=/var/lib/squeezeboxserver/cache
+SBDIR_CACHE=/squeezebox/cache
 
 SB_CHARSET="utf8"
 SB_USER="squeezeboxserver"
