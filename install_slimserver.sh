@@ -23,6 +23,7 @@ dnf -v -y install perl-Storable
 dnf -v -y install perl-Digest-MD5
 dnf -v -y install perl-Archive-Zip
 dnf -v -y install perl-Font-FreeType
+dnf -v -y install perl-Devel-Peek
 
 echo "====================="
 echo "Installing SlimServer"
